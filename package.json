@@ -1,0 +1,12 @@
+{
+  "name": "ro-learn-scripts",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:bank": "python scripts/build-bank.py"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
